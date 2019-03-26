@@ -18,10 +18,10 @@ while num4 <=0 or num4 >= 10000:
 
 while num5 <=0 or num5 >= 10000:
     num5 = float(input('Error, fifth number must be between 0 and 10000, try again: '))
-<<<<<<< HEAD
+# <<<<<<< HEAD
 
-=======
->>>>>>> newfeature1
+# =======
+# >>>>>>> newfeature1
 
 if num1 > num2 and num1 > num3 and num1 > num4 and num1 > num5:
     print('your first number', num1, 'is the largest')
